@@ -1,5 +1,8 @@
 package com.javatutoriales.patrones.adapter.objeto;
 
+import com.javatutoriales.patrones.adapter.HexColor;
+import com.javatutoriales.patrones.adapter.RgbColor;
+
 public class HexColorAdapter implements RgbColor {
     private final HexColor hexColor;
 

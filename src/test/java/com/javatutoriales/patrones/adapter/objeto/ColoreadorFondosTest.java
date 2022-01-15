@@ -1,8 +1,7 @@
 package com.javatutoriales.patrones.adapter.objeto;
 
-import com.javatutoriales.patrones.adapter.objeto.ColoreadorFondos;
-import com.javatutoriales.patrones.adapter.objeto.HexColor;
-import com.javatutoriales.patrones.adapter.objeto.HexColorAdapter;
+import com.javatutoriales.patrones.adapter.ColoreadorFondos;
+import com.javatutoriales.patrones.adapter.HexColor;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;

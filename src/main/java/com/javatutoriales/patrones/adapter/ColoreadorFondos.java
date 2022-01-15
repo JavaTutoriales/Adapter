@@ -1,4 +1,4 @@
-package com.javatutoriales.patrones.adapter.objeto;
+package com.javatutoriales.patrones.adapter;
 
 public class ColoreadorFondos {
     public String colorea(RgbColor color) {

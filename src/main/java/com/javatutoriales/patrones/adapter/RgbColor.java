@@ -1,4 +1,4 @@
-package com.javatutoriales.patrones.adapter.objeto;
+package com.javatutoriales.patrones.adapter;
 
 public interface RgbColor {
     int getRed();

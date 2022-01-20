@@ -1,13 +1,14 @@
 package com.javatutoriales.patrones.adapter.clase;
 
 import com.javatutoriales.patrones.adapter.ColoreadorFondos;
+import com.javatutoriales.patrones.adapter.RgbColor;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
 class ColoreadorFondosTest {
     private ColoreadorFondos coloreadorFondos = new ColoreadorFondos();
-    private HexColorAdapter hexColorAdapter;
+    private RgbColor hexColorAdapter;
 
     @Test
     void testColorRgbCuando_colorNegro() {
